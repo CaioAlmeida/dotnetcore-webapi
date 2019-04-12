@@ -1,0 +1,11 @@
+F:\Develop\Contato\Contato\bin\Debug\netcoreapp2.0\Contato.deps.json
+F:\Develop\Contato\Contato\bin\Debug\netcoreapp2.0\Contato.runtimeconfig.json
+F:\Develop\Contato\Contato\bin\Debug\netcoreapp2.0\Contato.runtimeconfig.dev.json
+F:\Develop\Contato\Contato\bin\Debug\netcoreapp2.0\Contato.dll
+F:\Develop\Contato\Contato\bin\Debug\netcoreapp2.0\Contato.pdb
+F:\Develop\Contato\Contato\obj\Debug\netcoreapp2.0\Contato.csprojAssemblyReference.cache
+F:\Develop\Contato\Contato\obj\Debug\netcoreapp2.0\Contato.csproj.CoreCompileInputs.cache
+F:\Develop\Contato\Contato\obj\Debug\netcoreapp2.0\Contato.AssemblyInfoInputs.cache
+F:\Develop\Contato\Contato\obj\Debug\netcoreapp2.0\Contato.AssemblyInfo.cs
+F:\Develop\Contato\Contato\obj\Debug\netcoreapp2.0\Contato.dll
+F:\Develop\Contato\Contato\obj\Debug\netcoreapp2.0\Contato.pdb
